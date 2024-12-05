@@ -1,13 +1,6 @@
 package hw3;
 
 public class Board {
-	// TODO
-	// Add whatever private fields you need here.
-	// Remember, only variables of type int, char, boolean, and 1D and 2D arrays
-	// of these types are allowed.
-	//
-	// As always, you may also add private helper methods to the class.  That will
-	// likely be very useful on this assignment.
 
 	/**
 	 * Constructs a new empty connect 4 game board with player X being the first player
